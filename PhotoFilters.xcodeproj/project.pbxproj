@@ -13,6 +13,7 @@
 		A164466A1B35C09100B741F5 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A16446691B35C09100B741F5 /* Images.xcassets */; };
 		A164466D1B35C09100B741F5 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = A164466B1B35C09100B741F5 /* LaunchScreen.xib */; };
 		A16446791B35C09100B741F5 /* PhotoFiltersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A16446781B35C09100B741F5 /* PhotoFiltersTests.swift */; };
+		A16446831B35C0B900B741F5 /* mason.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A16446821B35C0B900B741F5 /* mason.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		A16446721B35C09100B741F5 /* PhotoFiltersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PhotoFiltersTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A16446771B35C09100B741F5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A16446781B35C09100B741F5 /* PhotoFiltersTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PhotoFiltersTests.swift; sourceTree = "<group>"; };
+		A16446821B35C0B900B741F5 /* mason.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mason.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +80,7 @@
 			isa = PBXGroup;
 			children = (
 				A16446621B35C09100B741F5 /* AppDelegate.swift */,
+				A16446821B35C0B900B741F5 /* mason.jpg */,
 				A16446641B35C09100B741F5 /* ViewController.swift */,
 				A16446661B35C09100B741F5 /* Main.storyboard */,
 				A16446691B35C09100B741F5 /* Images.xcassets */,
@@ -194,6 +197,7 @@
 			files = (
 				A16446681B35C09100B741F5 /* Main.storyboard in Resources */,
 				A164466D1B35C09100B741F5 /* LaunchScreen.xib in Resources */,
+				A16446831B35C0B900B741F5 /* mason.jpg in Resources */,
 				A164466A1B35C09100B741F5 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
